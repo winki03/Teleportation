@@ -1,5 +1,5 @@
-# Teleportation
-This is a previous group assignment for creating teleportation, which allows players to move from one place to another.
+# Teleportation + Hand Gesture
+This is a previous group assignment for creating and destroying teleportation by recognising hand gestures using Leap Motion, which allows players to move from one place to another.
 
 # Demonstration Video
 You may refer to the video in this link: https://drive.google.com/file/d/1o36pgR75wM0FFFwJ_S_qwJv4L1BGzeSn/view
